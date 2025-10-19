@@ -1,0 +1,1 @@
+Safe file handling with 'with'.This line is added.

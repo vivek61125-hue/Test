@@ -1,0 +1,6 @@
+class Myclass:
+    x = 5  # properties
+
+p1 = Myclass()   #object creation
+print(p1.x)  # dot opertor to access class properties and methods*
+
