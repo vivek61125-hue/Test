@@ -7,4 +7,5 @@ for row in range(6):
             print("*", end=" ")
         else:
             print(" ", end=" ")
+            print(" ", end=" ")
     print()
